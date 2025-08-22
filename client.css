@@ -1,0 +1,27 @@
+/* body {
+  font-family: 'Fjalla One', sans-serif;
+} */
+
+:root {
+    box-sizing: border-box;
+}
+
+.card {
+    margin: 1.5em;
+    padding: .5rem;
+}
+
+.card-body > h1 {
+    font-size: 60px;
+}
+
+.card-body > h2 {
+    font-size: 23px;
+    padding-bottom: .5em;
+}
+
+
+.card-body > p {
+    font-size: 22px;
+    padding-top: .5em;
+}
